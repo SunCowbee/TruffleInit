@@ -1,0 +1,2 @@
+# TruffleInit
+Truffle Init
